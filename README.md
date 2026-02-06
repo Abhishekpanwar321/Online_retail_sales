@@ -1,7 +1,7 @@
 # Online_retail_sales
 📌 Project Overview
 
-This project presents a comprehensive sales performance analysis using Power BI, focusing on revenue trends, customer activity, product performance, and geographic insights between April and June 2022.
+This project presents a comprehensive sales performance analysis using Python and Power BI, focusing on revenue trends, customer activity, product performance, and geographic insights between April and June 2022.
 
 The goal was to transform raw sales data into clear, actionable business insights through effective data cleaning, KPI tracking, and interactive dashboards.
 
